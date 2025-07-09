@@ -22,7 +22,7 @@
 ## 🚀 Como Executar
 
 ```bash
-git clone https://github.com/seu-usuario/gerador-QrCode.git
+git clone https://github.com/Pucapuka/Dio-meutudo-challange-Gerador-qrcode.git
 cd gerador-QrCode
 npm install
 npm start
