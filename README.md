@@ -65,10 +65,10 @@ src/
 
 ## 🤝 Como Contribuir
 
-### - Faça um fork do projeto### - 
-### - Crie uma branch: git checkout -b feature/nova-feature### - 
-### - Commit suas mudanças: git commit -m 'Adiciona nova feature'### - 
-### - Push para a branch: git push origin feature/nova-feature### - 
+### - Faça um fork do projeto 
+### - Crie uma branch: git checkout -b feature/nova-feature
+### - Commit suas mudanças: git commit -m 'Adiciona nova feature'
+### - Push para a branch: git push origin feature/nova-feature 
 ### - Abra um Pull Request
 
 ## 📄 Licença
