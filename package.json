@@ -1,0 +1,30 @@
+{
+  "name": "gerador-qrcode",
+  "version": "1.0.0",
+  "description": "Kit de utilidades para e-commerce, incluindo um gerador de QR Code para pagamentos e outras funcionalidades.",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "start": "node ./src/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Pucapuka/Dio-meutudo-challange-Gerador-qrcode.git"
+  },
+  "keywords": [
+    "qrcode",
+    "challange",
+    "dio"
+  ],
+  "author": "Paulo Anderson Gonçalves de Lima",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Pucapuka/Dio-meutudo-challange-Gerador-qrcode/issues"
+  },
+  "homepage": "https://github.com/Pucapuka/Dio-meutudo-challange-Gerador-qrcode#readme",
+  "dependencies": {
+    "chalk": "^5.4.1",
+    "prompt": "^1.3.0",
+    "qrcode-terminal": "^0.12.0"
+  }
+}
